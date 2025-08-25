@@ -77,7 +77,7 @@ function Main() {
         <div className='phrase-section'>
           <div className='title-wrapper'>
             <h1 className='vn-bold txt-xl'>Phrase of the Day</h1>
-            <p className='vn-reg txt-m'>A random German phrase of the day to help me improving the language. Try to enter the right meaning to extend your streak!
+            <p className='vn-reg txt-m'>A random German phrase of the day to help me improving the language. Try to enter the right meaning to extend the streak!
             </p>
             <blockquote>
               <p className='detusch vn-bold txt-l'>„Auf Wiedersehen!"</p>
